@@ -1,6 +1,6 @@
 import React from "react";
 const weerApi = {
-    key: "8624ae9676711559b3c75432996404b8",
+    key: "##################",
     base: "https://api.openweathermap.org/data/2.5/"
 }
 
